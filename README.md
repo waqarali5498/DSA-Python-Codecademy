@@ -19,6 +19,8 @@ Each folder corresponds to a different DSA topic or concept covered in the cours
 - `Recursion/` — Recursive logic and function stack behavior
 - `Naive Pattern Search/` — String searching algorithm (brute-force approach)
 - `Sorting Algorithms/` — Sorting techniques: Bubble, Selection, Insertion, etc.
+- `Brute Force Algorithms/` — Searching techniques: Linear Search
+- `Tree /` — An Introduction : Parent, Child etc.
 
 ---
 
